@@ -1,0 +1,77 @@
+35 38 17 37
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX       XXXXXXX
+XXXXXXXXXXXXX     XX         XXXXXX
+XXXXXXXXXXX        XX        XXXXXX
+XXXXXXXXXXX                 XX   XX
+XXXX      XX                      X
+XXX        XX                    XX
+XX          XXXX                 XX
+X            XX                XXXX
+X             XX             XX  XX
+X             XXXXXXX       X     X
+XX          XXX     XX X  XXX     X
+XXXX       XX              XXX   XX
+XXXXXXXX    X                   XXX
+XX               X           X   XX
+X                 X         XX     
+                  XXX      XX      
+X         X         X    XXX       
+XXXXXXX     X         XXXX   XX   X
+XXXXX     X   X  X   XX      X  XXX
+XXXX           X    XX        XXXXX
+XXX         X                 XXXXX
+XXXX         XX            XXXXXXXX
+XXXXXXX    XXXX    XX     XXXXXXXXX
+XXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX     XXXXXXXXXXXXXXX
+XXXXXXXXX                XXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------------------------------
+-----------------------------------
+---------------------6666666-------
+-------------66666--666646666------
+-----------66666666--66666466------
+-----------64646646666444646--666--
+----666666--6446664644444444666646-
+---66666666--44444444446666666644--
+--6666664666----00446666666466666--
+-666646666666--6666666646664666----
+-6666646464666--6646446646666--66--
+-6664664464664-------4444646-64666-
+--6444444440---66666--0-00---64646-
+----4444400--64666666666666---446--
+--------0666-4444646644446666000---
+--666666646666410-44664144446-466--
+-66666666646646444-444410046--44646
+666466644446464444---410444--444466
+-666644411-444414460-1044---0444666
+-------44410-001460001----460--444-
+-----46464-100-44-001--444646-00---
+----66664441104-0000--00464664-----
+---666646444-11000001044446666-----
+----666666644--100000444666--------
+-------6666----1100--64666---------
+----------------100----------------
+----------------100----------------
+----------------100----------------
+----------------100----------------
+-----------------100---------------
+-----------------100---------------
+-----------------1000--------------
+------------------100--------------
+-----------------1000--------------
+-----------------100---------------
+---------------10000---------------
+---------1000000000000000----------
+-----------------------------------

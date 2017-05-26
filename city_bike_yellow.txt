@@ -1,0 +1,77 @@
+45 38 22 37
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX        XXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXX
+XXXXXXXX        XXXXXXXXXXXXXXX  XXXXXXXXXXXX
+XXXXXXXXXX     XXXXXXXXXXXXXX    XXXXXXXXXXXX
+XXXXXXXXXXX  XXXXXXXXXX      XXX  XXXXXXXXXXX
+XXXXXXXXXXXX           XXXXXXXXX   XXXXXXXXXX
+XXXXXXXXXXXX  XXXXXXXXXXXXXXXX   X XXXXXXXXXX
+XXXXXXXXXXX X XXXXXXXXXXXXXX  XXXXX XXXXXXXXX
+XXXXXXXXXX XX XXXXXXXXXXXX  XXXXXXXX XXXXXXXX
+XXX       XXX XXXXXXXXXXX XXXXXXXXXX      XXX
+XX  XXXX  XXXX XXXXXXXX  XXXXXXXXXX   XXX  XX
+X XX XX  X XXX   XXX   XXXXXXXXXXX XX  X XX X
+ XXXX   XXX X X X   XXXXXXXXXXXXX XXXX  XXXX 
+                  XXXXXXXXXXXXXXX            
+ XXXX  XXXX XX   XXXXXXXXXXXXXXXX XXXX  XXXX 
+X XX XX XX XXXXXXXXXXXXXXXXXXXXXXX XX XX XX X
+XX  XXXX  XXXXXXXXXXXXXXXXXXXXXXXXX  XXXX  XX
+XXX      XXXXXXXXXXXXXXXXXXXXXXXXXXX      XXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+------------------------66666555-------------
+--------------------------------5------------
+-------------------------------55------------
+------------------------------55-------------
+--------66666666---------------55------------
+----------66666--------------5555------------
+-----------55----------555555---55-----------
+------------55555555555---------555----------
+------------55----------------555-5----------
+-----------5-5--------------55-----5---------
+----------5--5------------55--------5--------
+---2222225---5-----------5----------522222---
+--21----52----5--------55----------215---12--
+-2--1--15-2---222---555-----------2--15-1--2-
+2----115---2-2-5-255-------------2----51----2
+211115511112526662---------------211115511112
+2----11----2--222----------------2----11----2
+-2--1--1--2-----------------------2--1--1--2-
+--21----12-------------------------21----12--
+---222222---------------------------222222---
+---------------------------------------------

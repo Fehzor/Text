@@ -1,0 +1,31 @@
+15 15 7 15
+XXXXX     XXXXX
+XXXX XXXXX XXXX
+XXX XXXXXXX XXX
+XX XXX   XXX XX
+XX XXX   XXX XX
+XXX XXX XXX XXX
+XXXX  X X  XXXX
+XXXXXX   XXXXXX
+XXXXXX   XXXXXX
+XXXXXX   XXXXXX
+XXXXXX   XX  XX
+XXXXXX   X   XX
+XXXXX       XXX
+XXXX       XXXX
+XX           XX
+-----00000-----
+----0-----0----
+---0-------0---
+--0---777---0--
+--0---777---0--
+---0---1---0---
+----00-1-00----
+------010------
+------010------
+------000------
+------000--35--
+------000-333--
+-----0000333---
+----0000003----
+--00000000000--

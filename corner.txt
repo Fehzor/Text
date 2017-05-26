@@ -1,0 +1,61 @@
+20 30 0 0
+          XXXXXXXXXX
+          XXXXXXXXXX
+          XXXXXXXXXX
+         XXXXXXXXXXX
+         XXXXXXXXXXX
+         XXXXXXXXXXX
+        XXXXXXXXXXXX
+        XXXXXXXXXXXX
+        XXXXXXXXXXXX
+       XXXXXXXXXXXXX
+       XXXXXXXXXXXXX
+       XXXXXXXXXXXXX
+      XXXXXXXXXXXXXX
+      XXXXXXXXXXXXXX
+      XXXXXXXXXXXXXX
+     XXXXXXXXXXXXXXX
+     XXXXXXXXXXXXXXX
+     XXXXXXXXXXXXXXX
+    XXXXXXXXXXXXXXXX
+    XXXXXXXXXXXXXXXX
+    XXXXXXXXXXXXXXXX
+   XXXXXXXXXXXXXXXXX
+   XXXXXXXXXXXXXXXXX
+   XXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXX
+  XXXXXXXXXXXXXXXXXX
+ XXXXXXXXXXXXXXXXXXX
+ XXXXXXXXXXXXXXXXXXX
+ XXXXXXXXXXXXXXXXXXX
+1111111110----------
+1111111110----------
+0000000000----------
+111111110-----------
+111111110-----------
+111111110-----------
+11111110------------
+11111110------------
+11111110------------
+1111110-------------
+1111110-------------
+0000000-------------
+111110--------------
+111110--------------
+111110--------------
+11110---------------
+11110---------------
+11110---------------
+1110----------------
+1110----------------
+0000----------------
+110-----------------
+110-----------------
+110-----------------
+10------------------
+10------------------
+10------------------
+0-------------------
+0-------------------
+0-------------------

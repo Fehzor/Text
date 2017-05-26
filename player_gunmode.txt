@@ -1,0 +1,61 @@
+20 30 10 29
+XXXXXXXXXXXXXXXXXXXX
+XXXXXXXX& XXXXXXXXXX
+XXXXXXXX ///XXXXXXXX
+XXXXXX& /   XXXXXXXX
+XXXXXX /     XXXXXXX
+XXXXXXX/     XXXXXXX
+XXXXXXX/      XXXXXX
+XXXXXX/       XXXXXX
+XXXXXX/      XXXXXXX
+XXXXXX/     XXXXXXXX
+XXXXXX/    \XXXXXXXX
+XXXXX/   --/\XXXXXXX
+XXXXXXXX/--//\XXXXXX
+XXXXXXXX/--//\XXXXXX
+XXXXXXXX  -//\XXXXXX
+XXXXXXXX   \X   XXXX
+XXXXXXXX/       XXXX
+XXXXXXX//////XXXXXXX
+XXXXXXX/////\ XXXXXX
+XXXXXX//////\ XXXXXX
+XXXXXX///////XXXXXXX
+XXXXXX//////\XXXXXXX
+XXXXX/////////XXXXXX
+XXXXX/////   /XXXXXX
+XXXXXX   X   XXXXXXX
+XXXXXX  XXX   XXXXXX
+XXXXX   XXXX  XXXXXX
+XXXXX    XXX   XXXXX
+XXXXX     XXX    XXX
+XXXXXXXXXXXXXXXXXXXX
+--------------------
+---------1----------
+--------1555--------
+--------5233--------
+-------523333-------
+-------523343-------
+-------5233333------
+------56233333------
+------5652333-------
+------565622--------
+------565677--------
+-----56567777-------
+--------677777------
+--------777777------
+--------337777------
+--------3337-333----
+--------73333333----
+-------777777-------
+-------7777772------
+------77777772------
+------7777777-------
+------7777777-------
+-----777777777------
+-----777773337------
+------222-333-------
+------22---333------
+-----222----33------
+-----7777---777-----
+-----77777---7777---
+--------------------

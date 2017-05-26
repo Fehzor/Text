@@ -1,0 +1,31 @@
+20 15 10 25
+XXXXXXXXXXXXXXXXXXXX
+XXXXX XXXXXXXXXXXXXX
+XXXXXXX XXXXXX XXXXX
+XXX XXXXXX  XXXXXXXX
+XXX XX XXXXXXX XXX X
+XXXXX X XX XX XX XXX
+XXXX XX  XXX  XXXXXX
+XX XXXX   X   X XXXX
+XXX XX XX XXX XX X X
+XXXXX XX     XXX XXX
+XXXX XX      XXXX  X
+XX XXXXXX   XXX XXXX
+XXX XXXXXXXXX XXXXX 
+XXXXXX  X XXX XXXXXX
+XXXXXXXXXXXXXXXXXXXX
+--------------------
+-----3--------------
+-------1------1-----
+---1------31--------
+---3--1-------3---3-
+-----3-0--3--1--1---
+----0--22---22------
+--0----221-322-0----
+---0--3--3---0--0-3-
+-----3--22222---3---
+----0--022222----10-
+--3------222---3----
+---1---------0-----3
+------33-1---3------
+--------------------

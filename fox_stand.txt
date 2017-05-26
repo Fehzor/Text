@@ -1,0 +1,19 @@
+16 9 8 8
+XXXXXXXXXX X XXX
+XXXXXXXXXX X XXX
+XXXXXXXXXX — —XX
+XXXXXXXXXX     Y
+XXX           —X
+X             XX
+             XXX
+  X XX XX XX XXX
+ XX XX XX XX XXX
+----------0-0---
+----------0-0---
+----------0000--
+----------000002
+---000000000022-
+-0000000000002--
+0000220220220---
+00-2--2--2--2---
+0--2--2--2--2---

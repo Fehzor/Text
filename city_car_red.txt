@@ -1,0 +1,61 @@
+50 30 25 30
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX                    XXXXXXXXXXXXXXX
+XXXXXXXXXXXXX                       XXXXXXXXXXXXXX
+XXXXXXXXXXX                          XXXXXXXXXXXXX
+XXXXXXXXXX                            XXXXXXXXXXXX
+XXXXXXXXX                              XXXXXXXXXXX
+XXXXXXXX                                 XXXXXXXXX
+XXXX                                        XXXXXX
+X                                                X
+                                                  
+                                                  
+                                                  
+                                                  
+X                                                X
+XXXXXXX          XXXXXXXXXXXXXXXX          XXXXXXX
+XXXXXXXX        XXXXXXXXXXXXXXXXXX        XXXXXXXX
+XXXXXXXXXX    XXXXXXXXXXXXXXXXXXXXXX    XXXXXXXXXX
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+---------------66666666666666666666---------------
+-------------66661333222266133222666--------------
+-----------66661333333222661333222666-------------
+----------6666113333333226613333222666------------
+---------666611113333333366113333333666-----------
+--------666611111111111116611111111116666---------
+----6666666666666666666666666666666666666666------
+-666666666666666666666666666666666666666666666666-
+11166666666666666666666666666666666666666666666633
+66166666660000666666666666666666666600006666666633
+11166666000000006666666666666666660000000066666666
+66666660001111000666666666666666600011110006666666
+-666666001122110066666666666666660011221100666666-
+-------0001111000----------------0001111000-------
+--------00000000------------------00000000--------
+----------0000----------------------0000----------

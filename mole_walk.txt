@@ -1,0 +1,19 @@
+12 9 6 9
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXX;;;;;XXXX
+X  ;;;  **XX
+    ;    ;; 
+X   ;;    XX
+XVVVXXXXVVVX
+------------
+------------
+------------
+------------
+---22222----
+-552225522--
+555525555220
+-555225555--
+-555----555-

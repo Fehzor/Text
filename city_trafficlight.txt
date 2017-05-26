@@ -1,0 +1,61 @@
+20 30 10 30
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXX      XXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXXXXXX  XXXXXXXXX
+XXXXX          XXXXX
+-------000000-------
+-------066660-------
+-------066660-------
+-------000000-------
+-------055550-------
+-------055550-------
+-------000000-------
+-------044440-------
+-------044440-------
+-------000000-------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+---------00---------
+-----0000000000-----

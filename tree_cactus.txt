@@ -1,0 +1,77 @@
+45 38 23 37
+XXXXXXXXXXXXXXXXXXXXXXl XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXX lXXXXXX l lXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXl l XXXXl l l XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXl l XXXXl l l XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXl l XXXXl l l XXXXXXXXX lXXXXXXXX
+XXXXXXXXXXXXl l XXXXl l l XXXXXXXXl llXXXXXXX
+XXXXXXXXXXXX\  \\XXXl l l XXXXXXXXl llXXXXXXX
+XXXXXXXXXXXXX\\  \\\l l l XXXXXXXXl llXXXXXXX
+XXXXXXXXXXXXXXXX\\\\l l l XXXXXXXXl llXXXXXXX
+XXXXXXXXXXXXXXXXXXXXl l l XXXXXXXXl llXXXXXXX
+XXXXXXXXXXXXXXXXXXXXl l l XXXXXXXXl llXXXXXXX
+XXXXXXXXXXXXXXXXXXXXl l l XXXXXXX/  llXXXXXXX
+XXXXXXXXXl XXXXXXXXXl l l XXXXXX/  //XXXXXXXX
+XXXXXXXXll lXXXXXXXXl l l XXXX/  ///XXXXXXXXX
+XXXXXXXl l l XXXXXXXl l l XXX/  ///XXXXXXXXXX
+XXXXXXXl l l XXXXXXXl l l //  //XXXXXXXXXXXXX
+XXXXXXXl l l XXXXXXXl l l ///XXXXXXXXXXXXXXXX
+XXXXXXXl l l XXXXXXXl l l XXXXXXXXXXXXXXXXXXX
+XXXXXXXl l l XXXXXXXl l l XXXXXXXXXXXXXXXXXXX
+XXXXXXXl l l XXXXXXXl l l XXXXXXXXXXXXXXXXXXX
+XXXXXXXl l l XXXXXXXl l l XXXXXXXXXXlXXXXXXXX
+XXXXXXXl l l XXXXXXXl l l XXXXXXXXX l XXXXXXX
+XXXXXXXX\\ \ \XXXXXXl l l XXXXXXXXl l lXXXXXX
+XXXXXXXX\ \  \\XXXXXl l l XXXXXXXXl l lXXXXXX
+XXXXXXXXX\ \\ \XXXXXl l l XXXXXXXXl l lXXXXXX
+XXXXXXXXXX\  \  \XXXl l l XXXXXXXXl l lXXXXXX
+XXXXXXXXXXX\\  \\\\\l l l XXXXXXXXl l lXXXXXX
+XXXXXXXXXXXXX\\     l l l XXXXXXX/  / /XXXXXX
+XXXXXXXXXXXXXXXl\\\\l l l XXXXXX/ // /XXXXXXX
+XXXXXXXXXXXXXXXXXXXXl l l XXXXXX/ / /XXXXXXXX
+XXXXXXXXXXXXXXXXXXXXl l l XXXXX/ / /XXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXl l l XXXX/ / /XXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXl l l XXX/ / /XXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXl l l /// / XXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXl l l ////XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXl l l XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXl l l XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+----------------------33---------------------
+-------------33------3333--------------------
+------------3333----333333-------------------
+------------3333----333333-------------------
+------------3333----333333---------33--------
+------------3333----333333--------3333-------
+------------33333---333333--------3333-------
+-------------3333333333333--------3333-------
+----------------3333333333--------3333-------
+--------------------333333--------3333-------
+--------------------333333--------3333-------
+--------------------333333-------33333-------
+---------33---------333333------33333--------
+--------3333--------333333----333333---------
+-------333333-------333333---333333----------
+-------333333-------333333333333-------------
+-------333333-------333333333----------------
+-------333333-------333333-------------------
+-------333333-------333333-------------------
+-------333333-------333333-------------------
+-------333333-------333333----------3--------
+-------333333-------333333---------333-------
+--------333333------333333--------33333------
+--------3333333-----333333--------33333------
+---------333333-----333333--------33333------
+----------3333333---333333--------33333------
+-----------333333333333333--------33333------
+-------------3333333333333-------333333------
+---------------33333333333------333333-------
+--------------------333333------33333--------
+--------------------333333-----33333---------
+--------------------333333----33333----------
+--------------------333333---33333-----------
+--------------------333333333333-------------
+--------------------3333333333---------------
+--------------------333333-------------------
+--------------------333333-------------------
+---------------------------------------------

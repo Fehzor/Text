@@ -1,0 +1,77 @@
+45 38 23 37
+XXXXXXXXXXXXXXXXXXXX X  X XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX        XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX X  X XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX      XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX      XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX        XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX          XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX      XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX        XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX           XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX              XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX                XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX          XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX            XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX               XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXX                  XXXXXXXXXXXXX
+XXXXXXXXXXXXX                    XXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX           XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX             XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX               XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXX                 XXXXXXXXXXXXXX
+XXXXXXXXXXXX                     XXXXXXXXXXXX
+XXXXXXXXXXX                       XXXXXXXXXXX
+XXXXXXXXXXXXXXXX               XXXXXXXXXXXXXX
+XXXXXXXXXXXXXX                   XXXXXXXXXXXX
+XXXXXXXXXXXX                       XXXXXXXXXX
+XXXXXXXXXX                          XXXXXXXXX
+XXXXXXXX                              XXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+--------------------6-66-6-------------------
+---------------------6666--------------------
+-------------------66666666------------------
+---------------------6666--------------------
+--------------------6-66-6-------------------
+----------------------66---------------------
+----------------------55---------------------
+---------------------5455--------------------
+---------------------5585--------------------
+--------------------555555-------------------
+--------------------565955-------------------
+-------------------55555555------------------
+------------------7777555777-----------------
+--------------------557777-------------------
+-------------------55855545------------------
+-----------------55955555355-----------------
+----------------55655557775555---------------
+---------------7777777755777777--------------
+------------------5552552555-----------------
+-----------------554552255555----------------
+---------------595555255255855---------------
+--------------555556555555555555-------------
+-------------77777555577777777777------------
+-----------------57777455555-----------------
+----------------4555555556555----------------
+---------------555595552555555---------------
+--------------55855555555559555--------------
+------------555555555565555557755------------
+-----------77777777775555777755777-----------
+----------------555577777555555--------------
+--------------5525525555555255255------------
+------------55555225585545552256555----------
+----------55565525525555555255255545---------
+--------777777777777777755555577777777-------
+----------------------077777777--------------
+----------------------000--------------------
+-------------------666666666-----------------
+---------------------------------------------

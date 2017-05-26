@@ -1,0 +1,77 @@
+35 38 17 37
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX     XXXXXXXXXXXXXX
+XXXXXXXXXXXXX          XXXXXXXXXXXX
+XXXXXXXXXX             XXXXXXXXXXXX
+XXXXX                     XXXXXXXXX
+XXXX                        XXXXXXX
+XXXX                           XXXX
+XXX                             XXX
+XXX                             XXX
+XX                             X XX
+X                              XX X
+XX     \     \                  X X
+XX     \    \\              X XXXX 
+X     \ \\ \\       /    //  X  XXX
+X X       \\        //  /      X  X
+ XX   \    \\         / /       X  
+XX X   \\\   \\       //        X  
+X X       \\\ \     ///      X X X 
+ X  X        \\\    //     X X X   
+ X XX      X X l  lll X X X  X X X 
+ X XX    X X X \lll X X X X XX X X 
+XX X X   X X X Xlll X X   X XXXX XX
+XXXX X XX XX X Xlll X XX XX XXXX XX
+XXX XX XX XX X XlllXX XX XX  XXX XX
+XXX X  XX XXXX XllllX XX XXX XXXXXX
+XXXXX XX XXXXX XXlllXX XX XXXXXXXXX
+XXXXXXXX XXXXXXXXlllXX XXX XXXXXXXX
+XXXXXXXX XXXXXXXXXlllXXXXX XXXXXXXX
+XXXXXXXXXXXXXXXXXXlllXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXlllXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXllllXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXllllXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXlllllXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXllllllllXXXXXXXXXXXXX
+XXXXXXXXXXXllllllllllllllXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------------------------------
+-----------------------------------
+-----------------------------------
+----------------44444--------------
+-------------4444444444------------
+----------4444444444444------------
+-----444444444444444444444---------
+----444444444444444444444344-------
+----444443343433444444434333433----
+---44334334333343444444334434344---
+---44343343443434444334343343444---
+--44334343344344434343443434334-4--
+-443343443443343434343443443444--4-
+--434330434440434343434443434344-4-
+--43334043430043434343434343-3----4
+-4434404003003434343033340044-34---
+-4-4344333003343334300330033443-44-
+4--43403333003434343430403334434-43
+--4-4430003340043434330043344434-43
+-4-43434440004043434000333344-3-4-4
+4-44-4344344400034330044443-4-3-444
+4-4--434434-4-40330004-4-3-44-4-4-4
+4-4--4443-4-4-400004-4-4-3-4--4-4-4
+--4-4-443-4-4-4-0004-4-443-4----4--
+----4-4--4--4-4-0004-4--4--4----4--
+---4--4--4--4-4-000--4--4--44---4--
+---4-44--4----4-0000-4--4---4------
+-----4--4-----4--000--4--4---------
+--------4--------000--4---4--------
+--------4---------000-----4--------
+------------------000--------------
+------------------000--------------
+-----------------0000--------------
+-----------------0000--------------
+----------------00000--------------
+--------------00000000-------------
+-----------00000000000000----------
+-----------------------------------

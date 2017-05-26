@@ -1,0 +1,15 @@
+18 7 12 16
+XXXXXXXXXXXXXX|XXX
+XXXXXXXXXXXXX||XXX
+XXXX\\XXXXXX<<<<XX
+XXXXX\\\XXX<<<x<<X
+XXXXXXX//<<<---<  
+XXXXX///XXX<<<<< X
+XXXX//XXXXXXXXXXXX
+--------------1---
+-------------11---
+----11------0000--
+-----111---000000-
+-------11000111022
+-----111---000002-
+----11------------

@@ -1,0 +1,25 @@
+12 12 6 12
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXX   XXXXX
+XXXX   XXXXX
+XXX     XXXX
+XXX     XXXX
+XXX     XXXX
+XXX     XXXX
+XXX     XXXX
+------------
+------------
+------------
+------------
+------------
+----333-----
+----333-----
+---22222----
+---22622----
+---26662----
+---22622----
+---22222----

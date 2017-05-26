@@ -1,0 +1,25 @@
+12 12 0 0
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXqqqqqqqqq
+XXqqqqqqqqqq
+XqqqXXXXXqqq
+XqqqXXXXXqqq
+XXqqqqqqqqqq
+XXXpqqqqqpqq
+XXXXXXXXXqqq
+XXXXXXXXXqqq
+XXXXXXXXXqqq
+------------
+------------
+------------
+---211111211
+--2122222112
+-212-----212
+-212-----212
+--2122222112
+---211111212
+---------212
+---------212
+---------111

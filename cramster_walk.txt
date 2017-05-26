@@ -1,0 +1,41 @@
+18 20 9 20
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XX ☻XXXXXX ☻XXXXXX
+XX  XXXXX   XXXXXX
+XXXX XXX XXXXXXXXX
+XXXXX XX XXX   XXX
+XXXXXX X    ———XXX
+XXXX    ———————XXX
+      ——————XXXXXX
+   —————XXXXXXXXXX
+   ———XXXXXXXXXXXX
+   —————XXXXXXXXXX
+      ——————XXXXXX
+XXXX    ———————XXX
+XXXXXXXX    ———XXX
+XXXXXXXXXXXX   XXX
+------------------
+------------------
+------------------
+------------------
+------------------
+------------------
+--30------30------
+--33-----133------
+----1---1---------
+-----1--1---111---
+------1-1111222---
+----11112222222---
+001111222222------
+11122222----------
+001222------------
+11122222----------
+001111222222------
+----11112222222---
+--------1111222---
+------------111---

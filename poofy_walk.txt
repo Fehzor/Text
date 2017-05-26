@@ -1,0 +1,25 @@
+18 12 9 27
+XXXXXXX   XXXXXXXX
+XXXXXXXXX XXX XXXX
+XXXXX    *    XXXX
+XXXXX XXX XXXXXXXX
+XXXXXXXXX   XXXXXX
+XXXXXXXXX XXXXXXXX
+XXXXXXX     XXX  X
+XXXXXX •  •  X    
+XX  X             
+X             X  X
+X    X       XXXXX
+XX  XXX     XXXXXX
+-------000--------
+---------0---0----
+-----000111000----
+-----0---0--------
+---------000------
+---------2--------
+-------22222---33-
+------2132132-3333
+--33-2233233223333
+-3333222222222-33-
+-3333-2200022-----
+--33---22222------

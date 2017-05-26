@@ -1,0 +1,21 @@
+15 10 10 10
+XXXXXXXXXXXXXXX
+XXX   XXXXXXXXX
+XX XXX XXXXXXXX
+X XXX XXXXXXXXX
+X XXXXXXX   XXX
+X XXX    @ •XXX
+X           YXX
+XX         XXXX
+XXX X XX X XXXX
+XX XX XX XX XXX
+---------------
+---000---------
+--0---0--------
+-0---0---------
+-0-------000---
+-0---0000202---
+-000000000022--
+--002022020----
+---0-0--0-0----
+--2--2--2--2---

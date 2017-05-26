@@ -1,0 +1,41 @@
+25 20 12 20
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX     XXX
+XXXXXXXXXXXXXX      • •XX
+XXXXXXXXXXXXX          YX
+XXXXXXXXXXXX       XXXXXX
+XXXXXXXXXXX       XXXXXXX
+XXXXXXXXX         XXXXXXX
+XXXXXX            XXXXXXX
+XXX              XXXXXXXX
+X                XXXXXXXX
+  X               XXXXXXX
+ XX  X  XXXX  XXX  XXXXXX
+ X  XX XXXXX  XXXX XXXXXX
+XX  X XXXXXXX XXXXX XXXXX
+X XXXX XXXXXX XXXXXX XXXX
+ XXXXXX XXXXX XXXXXX XXXX
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-----------------10110---
+--------------111100000--
+-------------11100000011-
+------------1110000------
+-----------1100000-------
+---------110000000-------
+------000000000000-------
+---00000000000000--------
+-1000000000000000--------
+11-002222222222200-------
+1--00-00----00---00------
+1-00--0-----00----0------
+--00-0-------0-----0-----
+-0----0------0------0----
+1------1-----1------1----

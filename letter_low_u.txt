@@ -1,0 +1,25 @@
+12 12 0 0
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+uuuuuXXuuuuu
+XuuuXXXXuuuX
+XuuuXXXXuuuX
+XuuuXXXXuuuX
+XuuuuuuuuuuX
+XXuuuuuuuuuu
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+------------
+------------
+------------
+21112--21112
+-212----212-
+-212----212-
+-212----212-
+-2122222112-
+--2111112112
+------------
+------------
+------------

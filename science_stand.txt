@@ -1,0 +1,61 @@
+20 30 10 30
+XXXXXXX   XXXXXXXXXX
+XXXXXX     XXXXXXXXX
+XXXXX      XXXXXXXXX
+XXXXX       XXXXXXXX
+XXXXX       XXXXXXXX
+XXXXXX     XXXXXXXXX
+XXXXXX    \XXXXXXXXX
+XXXXX  mm\\XXXXXXXXX
+XXXX  mmmm\XXXXXXXXX
+XXXX  mmmm\\XXXXXXXX
+XXXX  mmmm\oXXXXXXXX
+XXXXX mmmm\\XXXXXXXX
+XXXXX mmmm\oXXXXXXXX
+XXXXX mmmm\\XXXXXXXX
+XXXXX mmmm\oXXXXXXXX
+XXXXX \mmmm\XXXXXXXX
+XXXXX \mmmm\XXXXXXXX
+XXXXX \\mmm\XXXXXXXX
+XXXXX \\mmm\XXXXXXXX
+XXXX \\\\    XXXXXXX
+XXXX \\\\    XXXXXXX
+XXXX \\\\\\\ XXXXXXX
+XXXX \\\\\\\ XXXXXXX
+XXX  \\\\\\\ XXXXXXX
+XXX   \\\\\\ XXXXXXX
+XXXX  \\\\\\ XXXXXXX
+XXXXX        XXXXXXX
+XXXXXXX   XXXXXXXXXX
+XXXXXXX    XXXXXXXXX
+XXXXXXX     XXXXXXXX
+-------666----------
+------6CCCC---------
+-----6CCC6C---------
+-----6CCCCCC--------
+-----6CCCCCC--------
+------CCCCC---------
+------9CCC9---------
+-----999999---------
+----9999999---------
+----99999999--------
+----99999999--------
+-----9999999--------
+-----9999999--------
+-----9999999--------
+-----9999999--------
+-----9999999--------
+-----9999999--------
+-----9999999--------
+-----9999999--------
+----99999CCC9-------
+----99999CCC9-------
+----999999999-------
+----999999999-------
+---9999999999-------
+---9999999999-------
+----999999999-------
+-----99999999-------
+-------CCC----------
+-------CCCC---------
+-------CCCCC--------

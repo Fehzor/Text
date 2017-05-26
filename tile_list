@@ -1,0 +1,11 @@
+brick_small.txt GREYSCALE brick
+brick.txt GREYSCALE brick
+window.txt GREYSCALE_LIGHT window
+window_half.txt GREYSCALE_LIGHT window
+window_cracked.txt GREYSCALE_LIGHT window
+window_closed.txt GREYSCALE_LIGHT window
+window_curtained.txt GREYSCALE_LIGHT window
+window_curtained_half.txt GREYSCALE_LIGHT window
+water_still.txt AQUA water
+game_tile.txt CITYSCALE game
+tile_sidewalk.txt GREYSCALE_LIGHT sidewalk

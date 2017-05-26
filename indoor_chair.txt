@@ -1,0 +1,31 @@
+25 15 12 15
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXX     XXXXXXXXXX
+XXXXXXXXX       XXXXXXXXX
+XXXXXXXXX       XXXXXXXXX
+XXXXXXXXX       XXXXXXXXX
+XXXXXXXXX       XXXXXXXXX
+XXXXXXXXX       XXXXXXXXX
+XXXXXXXXX       XXXXXXXXX
+XXXXXXXXX       XXXXXXXXX
+XXXXXXXX         XXXXXXXX
+XXXXXXX           XXXXXXX
+XXXXXXXX X XXX X XXXXXXXX
+XXXXXXXX X XXX X XXXXXXXX
+XXXXXXXX XXXXXXX XXXXXXXX
+-------------------------
+-------------------------
+----------55555----------
+---------5555555---------
+---------5555555---------
+---------5555555---------
+---------5555555---------
+---------5555555---------
+---------1111111---------
+---------5555555---------
+--------555555555--------
+-------55555555555-------
+--------1-1---1-1--------
+--------1-1---1-1--------
+--------1-------1--------

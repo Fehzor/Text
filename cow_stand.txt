@@ -1,0 +1,31 @@
+25 15 13 13
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX  XX  XX
+XXXXXXXXX       XX*  *XXX
+XXXXX                 XXX
+XXXX X             ..XXXX
+XXXX X              XXXXX
+XXX XX              XXXXX
+XXXXXX  X  XXX  XX  XXXXX
+XXXXXX  X  XXX  XX  XXXXX
+XXXXXX  XXXXXXXXXX  XXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+-------------------------
+-------------------------
+-------------------------
+-------------------------
+-----------------11--11--
+---------0000111--1001---
+-----10011001110001001---
+----1-011111111100011----
+----1-01100000111111-----
+---1--11111000110001-----
+------01-00---10--01-----
+------01-10---11--00-----
+------11----------11-----
+-------------------------
+-------------------------

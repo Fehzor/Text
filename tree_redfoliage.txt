@@ -1,0 +1,71 @@
+30 35 15 35
+XXXXXXXXXXXXXX   XXXXXXXXXXXXX
+XXXXXXXXXXXX      XXXXXXXXXXXX
+XXXXXXXXXXX        XXXXXXXXXXX
+XXXXXXXXXXX        XXXXXXXXXXX
+XXXXXXXXXXXX      XX    XXXXXX
+XXXXX  XXXXXXXllXXX     XXXXXX
+XXXX    XX       XX      XXXXX
+XXX    XX         XX/   XXXXXX
+XXX    X           //XXXXXXXXX
+XX    \\X           XX   XXXXX
+XXX XXX\XX         XX     XXXX
+XXXXX    XXX      XX         X
+X          \\X    X           
+            \\lllXX           
+            X\     XXX        
+           XX      XX///     X
+X   XX\\\\XX        //XXXXXXXX
+XXXXX    \\XX     ///     XXXX
+XXX         \XlllXX        XXX
+XXX          \lll           XX
+XXXX          ll           XXX
+XXXXXXXX   XXXlllXX       XXXX
+XXXXXXXXXXXXXXlllXXXXXXXXXXXXX
+XXXXXXXXXXXXXXlllXXXXXXXXXXXXX
+XXXXXXXXXXXXXXlllXXXXXXXXXXXXX
+XXXXXXXXXXXXXXlllXXXXXXXXXXXXX
+XXXXXXXXXXXXXXlllXXXXXXXXXXXXX
+XXXXXXXXXXXXXXlllXXXXXXXXXXXXX
+XXXXXXXXXXXXXXlllXXXXXXXXXXXXX
+XXXXXXXXXXXXXXlllXXXXXXXXXXXXX
+XXXXXXXXXXXXXXlllXXXXXXXXXXXXX
+XXXXXXXXXXXXXXlllXXXXXXXXXXXXX
+XXXXXXXXXXXXXXlllXXXXXXXXXXXXX
+XXXXXXXXXXXXX/lll\XXXXXXXXXXXX
+XXXXXXXXXX////lll\\\\XXXXXXXXX
+--------------222-------------
+------------222222------------
+-----------22222222-----------
+-----------22222222-----------
+------------222222--2222------
+-----22-------00---22222------
+----2222--2222222--222222-----
+---2222--222222222--0222------
+---2222-2222222222200---------
+--222200-22222222222--222-----
+---2---0--222222222--22222----
+-----2222---222222--222222222-
+-222222222200-2222-22222222222
+22222222222200000--22222222222
+222222222222-022222---22222222
+22222222222--222222--00022222-
+-222--0000--2222222200--------
+-----222200--2222200022222----
+---2222222220-000--22222222---
+---2222222222000022222222222--
+----22222222220022222222222---
+--------222---000--2222222----
+--------------000-------------
+--------------000-------------
+--------------000-------------
+--------------000-------------
+--------------000-------------
+--------------000-------------
+--------------000-------------
+--------------000-------------
+--------------000-------------
+--------------000-------------
+--------------000-------------
+-------------00000------------
+----------00000000000---------

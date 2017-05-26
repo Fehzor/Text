@@ -1,0 +1,61 @@
+50 30 25 30
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX                    XXXXXXXXXXXXXXX
+XXXXXXXXXXXXX                       XXXXXXXXXXXXXX
+XXXXXXXXXXX                          XXXXXXXXXXXXX
+XXXXXXXXXX                            XXXXXXXXXXXX
+XXXXXXXXX                              XXXXXXXXXXX
+XXXXXXXX                                 XXXXXXXXX
+XXXX                                        XXXXXX
+X                                                X
+                                                  
+                                                  
+                                                  
+                                                  
+X                                                X
+XXXXXXX          XXXXXXXXXXXXXXXX          XXXXXXX
+XXXXXXXX        XXXXXXXXXXXXXXXXXX        XXXXXXXX
+XXXXXXXXXX    XXXXXXXXXXXXXXXXXXXXXX    XXXXXXXXXX
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+---------------77777777777777777777---------------
+-------------77771333222277133222777--------------
+-----------77771333333222771333222777-------------
+----------7777113333333227713333222777------------
+---------777711113333333377113333333777-----------
+--------777711111111111117711111111117777---------
+----7777777777777777777777777777777777777777------
+-777777777777777777777777777777777777777777777777-
+11177777777777777777777777777777777777777777777733
+66177777770000777777777777777777777700007777777733
+11177777000000007777777777777777770000000077777777
+77777770001111000777777777777777700011110007777777
+-777777001122110077777777777777770011221100777777-
+-------0001111000----------------0001111000-------
+--------00000000------------------00000000--------
+----------0000----------------------0000----------

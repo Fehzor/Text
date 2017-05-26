@@ -1,0 +1,77 @@
+45 38 23 37
+XXXXXXXXXXXXXXXX☻XXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX☻ XXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX ☻ XXXXXXXXX☻XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX ☻XXXX☻XX☻☻XXXXXXXXXXX☻ XX
+XXX☻ ☻XXXXXXX XXXXX ☻XX ☻XX ☻ ☻☻XXXXXXX ☻XXXX
+XXXXXX☻☻XXXX   ☻ XX☻☻X ☻        ☻☻ XX ☻☻XXXXX
+XXXXXXX ☻  ☻ ☻☻  ☻ ☻☻              ☻ ☻XXXXXXX
+XXXXXXX    ☻☻  ☻ ☻   ☻ ☻            ☻XXXXXXXX
+XXXXXX    ☻ ☻  ☻  ☻ ☻ ☻ ☻☻    ☻    ☻XX☻XXXXXX
+☻XXX           ☻    ☻ ☻  ☻  ☻  ☻☻   ☻☻☻X☻XXXX
+X☻☻  ☻               ☻ ☻☻           ☻ ☻☻☻X  X
+XX☻ X                 ☻   ☻☻       ☻    ☻☻☻XX
+☻ XXX ☻               ☻☻   ☻      ☻ ☻☻ ☻☻XXXX
+XXXX       ☻      ☻  ☻    ☻       ☻☻ ☻XX☻☻XXX
+XXX☻          ☻        ☻☻          X☻ XXXXXXX
+XX☻ X       ☻     ☻   ☻     ☻ ☻  X XX   X XXX
+XX☻XX☻   ☻  ☻ ☻☻   ☻  ☻     ☻ X☻  X☻☻XXXXX XX
+X☻XX☻     ☻☻   ☻ ☻   ☻  ☻    ☻☻X☻☻X ☻ ☻XXXXXX
+☻X☻☻XXX  ☻   X   ☻☻ ☻   ☻☻ XXX☻XX☻ XXX ☻XXXXX
+X☻XXX☻☻XX☻  ☻XXX☻    ☻   ☻   XX☻XX☻XXXXX☻XXXX
+X☻XXX☻XX☻X X☻XX☻X        ☻☻X XXXXXX☻XXXXXXXXX
+☻XXX☻XX☻XXXX☻XX☻X☻☻     ☻XXXX XXXXXXXXXXXXXXX
+XXXXXXXXXXX☻XXX☻XXXX    XX☻XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX☻XXX   XXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX        XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX                 XXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+----------------8----------------------------
+-----------------88--------------------------
+------------------888---------8--------------
+-------------------88----8--88-----------88--
+---888-------8-----88--88--88888-------88----
+------88----88888--88-8888888888888--888-----
+-------8888888888888888888888888888888-------
+-------888888888888888888888888888888--------
+------888888888888888888888888888888--8------
+8---88888888888888888888888888888888888-8----
+-8888888888888888888881888888888888888888-88-
+--88-88888888888888888801888880188888888888--
+88---888888888888888888801888818888888888----
+----8888888888888888888801880188888888--88---
+---88888888888888888888880001888888-88-------
+--88-8888888888888888888018888888-8--888-8---
+--8--8888881888888888880188888-888-88-----8--
+-8--888888881108888888018888888-88-8888------
+8-88---888888-1108888801888---8--88---88-----
+-8---88--8888---8000080008888--8--8-----8----
+-8---8--8-8-8--8-1110000088-8------8---------
+8---8--8----8--8-88100008----8---------------
+-----------8---8----1000--8------------------
+----------------8---100----------------------
+-------------------110-----------------------
+--------------------10-----------------------
+--------------------10-----------------------
+--------------------100----------------------
+--------------------1000---------------------
+---------------------100---------------------
+---------------------1000--------------------
+----------------------100--------------------
+---------------------1100--------------------
+----------------------100--------------------
+--------------------10000--------------------
+------------------10000000-------------------
+---------------10000000000000000-------------
+---------------------------------------------

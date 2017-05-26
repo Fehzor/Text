@@ -1,0 +1,31 @@
+18 15 9 15
+XXXXXX       XXXXX
+XXXXX /// \\\ XXXX
+XXXXX /// \\\ XXXX
+XXXX //// \\\\ XXX
+XXX ///// \\\\\ XX
+XX ////// \\\\\\ X
+X                 
+XXXXXXXXX XXXXXXXX
+XXXXXXXXX XXXXXXXX
+XXXXXXXXX XXXXXXXX
+XXXXXXXX   XXXXXXX
+XXXXXXX  O  XXXXXX
+XXXXXXX     XXXXXX
+XXXXXXXX   XXXXXXX
+XXXXX         XXXX
+------0000000-----
+-----055505550----
+-----055505550----
+----05555055550---
+---0555550555550--
+--055555505555550-
+-00000000000000000
+---------0--------
+---------0--------
+---------0--------
+--------111-------
+-------11011------
+-------11111------
+--------111-------
+-----000000000----

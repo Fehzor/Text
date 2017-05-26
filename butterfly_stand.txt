@@ -1,0 +1,25 @@
+18 12 9 23
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXX    XXXXXXXXXXX
+XX • • • XX\XXX/XX
+XXX • • • XX\X/XXX
+XXXX • ••• X••XXXX
+XXXXXX       XXXXX
+XXXXX • • X XXXXXX
+XXXX • • X XXXXXXX
+XXXXX   XXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+------------------
+------------------
+---1111-----------
+--1000001--3---3--
+---1000001--3-3---
+----1000001-22----
+------1111122-----
+-----10001-2------
+----10001-2-------
+-----111----------
+------------------
+------------------

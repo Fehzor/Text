@@ -1,0 +1,77 @@
+35 38 17 37
+XXXXXXXXXXXXXXXXX  XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX     XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXX       XXXXXXXXXXXXXX
+XXXXXXXXXXXXX         XXXXXXXXXXXXX
+XXXXXXXXXXXX           XXXXXXXXXXXX
+XXXXXXXXXXXXXX       XXXXXXXXXXXXXX
+XXXXXXXXXXXXX         XXXXXXXXXXXXX
+XXXXXXXXXXXX           XXXXXXXXXXXX
+XXXXXXXXXX              XXXXXXXXXXX
+XXXXXXXXXXX            XXXXXXXXXXXX
+XXXXXXXXXX               XXXXXXXXXX
+XXXXXXXXX                 XXXXXXXXX
+XXXXXXXX                   XXXXXXXX
+XXXXXXXXXX                XXXXXXXXX
+XXXXXXXXX                 XXXXXXXXX
+XXXXXXXX                   XXXXXXXX
+XXXXXXX                     XXXXXXX
+XXXXXX                       XXXXXX
+XXXXX                         XXXXX
+XXXXXX                       XXXXXX
+XXXXX                         XXXXX
+XXXX                           XXXX
+XXX                             XXX
+XXX                              XX
+XX                               XX
+X                                 X
+XXXX                        XXXXXXX
+XXX                             XXX
+XX                               XX
+X                                 X
+X                                  
+                                   
+XXX    XXXXX           X  XXXXXXXXX
+XXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------------43----------------
+----------------4333---------------
+---------------34333---------------
+--------------3433334--------------
+-------------443333334-------------
+------------44444444444------------
+--------------3433334--------------
+-------------343333334-------------
+------------33444444443------------
+----------44443333333344-----------
+-----------433333433333------------
+----------433343334333334----------
+---------33334444443333334---------
+--------4444443333344444344--------
+----------3333333333333333---------
+---------33343343343334334---------
+--------4334333433343343334--------
+-------433343334333433343334-------
+------43334334444444433433334------
+-----4444444433333333444444444-----
+------33333333333333333333333------
+-----3433333333433343433343343-----
+----343333343334333433433343343----
+---34333343333433333433433433443---
+---433334433443333333434433443343--
+--3333334334433344444443433343334--
+-444444433344444333333344444444444-
+----334444443333333333333333-------
+---33433333333433433334333343333---
+--3334333433334333433343343344333--
+-333433344333444434433343343334433-
+-3344334333334333334333343343333433
+44433344444443333344344444444444444
+---4444-----44444004444-44---------
+----------------0000---------------
+----------------0000---------------
+----------------0000---------------
+-----------------------------------

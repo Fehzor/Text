@@ -1,0 +1,50 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package text.Combat.Enemy.Enemies.Graveyard.TutorialStuff;
+
+import java.awt.Color;
+import text.Combat.Enemy.Enemies.Enemy;
+import text.Combat.Hero.WordController;
+import text.Images.TextImageComplex;
+import text.Utility.ColorTuple;
+import text.Utility.ImageLoader;
+
+/**
+ * @author FF6EB4
+ */
+public class Zombie_c extends Enemy{
+    public Zombie_c(){
+        super();
+        this.name = "ZAM BRONIO";
+        ImageLoader.switchMap("HUMAN");
+        this.image = new TextImageComplex(ImageLoader.loadImage("zombie_stand.txt"));
+        this.image.flip();
+        
+        this.messageA = "I could really go for some pizza.";
+        this.messageB = "We just kind of chill out here.";
+        
+        this.turns = 20;
+        
+        this.AH = new WordController("HotCocoa",(float)0.1);
+    }
+    
+    
+    public String[] display(){
+        String[] ret = new String[7];
+        ret[0] = "";
+        ret[1] = "...NO!";
+        ret[2] = "";
+        ret[3] = "...He's... hungry for cocoa??!";
+        ret[4] = "";
+        ret[5] = "...That has nothing to do with YOUR BRAIN!";
+        ret[6] = "";
+        return ret;
+    }
+    
+    public String toString(){
+        return "ZAM BRO";
+    }
+}

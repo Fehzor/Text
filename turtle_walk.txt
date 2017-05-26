@@ -1,0 +1,17 @@
+14 8 7 7
+XXXXXXXXXXXXXX
+XXXXXXXXXXXXXX
+XXX A A AXXXXX
+XX Y Y Y YXXXX
+XA A A A A Xoo
+Y Y Y Y Y Y  _
+X           XX
+||X||XX||X||XX
+--------------
+--------------
+---222222-----
+--22222222----
+-2222222222-00
+22222222222000
+-00000000000--
+00-00--00-00--

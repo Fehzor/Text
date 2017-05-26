@@ -1,0 +1,31 @@
+20 15 15 12
+XXXXXXXXXXXXXX||XXXX
+XXXXXXXXXXXX||||XXXX
+XXXXXXXXX\\|||||XXXX
+XXXXXXX\\\\|||||XXXX
+XXXXXX\\\\\     XXXX
+XXXXX————        XXX
+XXXXX———          XX
+X  XX———         • X
+XX  XX//           X
+XXX XXX/          XX
+XXXX XXXX        XXX
+XXXX XXX XX     XXXX
+XXX XXX XXXXX XXXXXX
+XX XXX XXXXX XXXXXXX
+XXX   XXXXXX  XXXXXX
+--------------33----
+------------3333----
+---------3333333----
+-------333333333----
+------3333311111----
+-----333311111111---
+-----3331111111133--
+-33--33311111113303-
+--33--3311122111331-
+---3---31111121111--
+----3----11111222---
+----3---3--11111----
+---3---3-----3------
+--3---3-----3-------
+---333------33------

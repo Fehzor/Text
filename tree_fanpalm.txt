@@ -1,0 +1,77 @@
+45 38 22 37
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX XX X X X XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX  X   X XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX XX X     XX XX XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX X XX   X X X XX XXXXXXXXXXXX
+XXXXXXXXXXXXX  XX    X XX X   X XX XXXXXXXXXX
+XXXXXXXXXXX  X   X  XX XXX     X  XXXXXXXXXXX
+XXXXXXXXXXXXX XX     X XX       XXX XXXXXXXXX
+XXXXXXX        XX      X  X        XXXXXXXXXX
+XXXXX      X     XX        XX X         XXXXX
+XXXX    X   XXXX         XX  XXXXXX  XXX XXXX
+XXXXXXXXXXXX     X                XXXXXXXXXXX
+XXXXXXXX        XXXX      XXX         XXXXXXX
+XXXXXXX XXX      XXXXX^^^XXXXX         XXXXXX
+XXXXXXXXXX XX X   XXXX^^ XXXXX   XXX XXXXXXXX
+XXXXXXXXXXXX XX X XXXX ^ XXXXX XX XXXXXXXXXXX
+XXXXXXXXXXXXXX XX XXXX ^ XXXXXX XXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX^^ ^ XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX^ ^ ^XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX ^  ^XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX^^ ^ XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX ^ ^ XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX ^ ^  ^XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX ^^ ^^ XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX^   ^  XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX ^ ^ ^^XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX  ^   ^XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX^^  ^^^XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX^ ^^^  ^^XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX ^^^ ^^  XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+-----------------4--4-4-4-4------------------
+------------------44-444-4-------------------
+---------------3--3-44444--4--4--------------
+----------------3-3--444-4-4-4--4------------
+-------------33--3333-4--4-444-4--4----------
+-----------33-333-33--4---44444-44-----------
+-------------3--33333-4--3344444---4---------
+-------44444333--333334-33-44444444----------
+-----443333-44444--43343344--3-333333333-----
+----3333-333----343443434--33------33---3----
+------------33344-4343444434443333-----------
+--------44444444----441333---344444443-------
+-------4---444444-----000-----333333444------
+----------4--4-444----000-----333---3--------
+------------4--4-4----001-----3--3-----------
+--------------4--4----100------3-------------
+---------------------00001-------------------
+---------------------01000-------------------
+---------------------00100-------------------
+---------------------00000-------------------
+---------------------10101-------------------
+--------------------0000000------------------
+--------------------1000001------------------
+--------------------0010000------------------
+--------------------0000000------------------
+--------------------1000100------------------
+--------------------0010000------------------
+-------------------010000100-----------------
+-------------------000010001-----------------
+---------------------------------------------

@@ -1,0 +1,77 @@
+45 38 22 37
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXX X X XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXX☻XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXX☻X☻XXXXXXXXXXX XXXXXXXXXXX☻X XXXXX
+XXXX☻XX XXX  XXXXXXXXXX XX  X XXXXXXXX ☻XXXXX
+X XXXX ☻XX☻X☻X XXXXXX X X  ☻XXXXXX☻   XXXXXXX
+XX☻XXXX   X☻ XXXX X☻XX ☻XX   XX X X  XXXXXXXX
+X ☻ XXXXX☻ X  XXXX XX ☻XXXXX  XXXX  XXXXXXXXX
+XXX ☻XXX X ☻ X XXX  ☻  XX X X  XX XXX☻XXXXXXX
+XX☻X XXXXXXX☻ X☻XXX X X☻XXXXX☻X  ☻ X XX☻XXX☻X
+XXX   X XXX X   X☻X☻ ☻ XX☻X☻X☻X ☻XX X XXX☻XXX
+XXXXXXX XXXXXXX☻ XXX XX☻XXXXXX ☻X☻ XXX X☻XXXX
+XXXXX☻ X ☻X XXXXX   ☻XXXX☻X X  X X☻X☻ X☻X☻X☻X
+☻XX XXXX ☻ ☻X☻☻XX  XX☻X XX X ☻  ☻ ☻  X ☻X XXX
+XX☻ ☻   XX  ☻ ☻X XX  XXX ☻     X☻ XX XX☻   X 
+X   XXXX ☻X X   X ☻     XX☻  XXX☻XXXXXXXXXXXX
+XX XX XXX☻XXXXX        X   ☻XX☻XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX XXX    ☻XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+-------------2-------------------------------
+---------------------------------------------
+----------2-2-2------------------------------
+------------2--------------------------------
+-----------2-2-----------2-----------2-2-----
+----2--2---20----------2--02-2--------22-----
+-2----22--2-2-2------2-0-202------2202-------
+--2----200-20----2-2--02--202--2-2-02--------
+-222-----20-02----0--02-----02----02---------
+---22---2-020-2---00202--2-2-02--0---2-------
+--2-2-------20-2---0-0-2-----2-2022-2--2---2-
+---202-2---2-000-2-2022--2-2-2-02--2-2---2---
+-------0-------20---0--2------22-22---0-2----
+-----22-02-2-----0002----2-2-20-2-2-22-2-2-2-
+2--2----0202-22--20--2-2--2-022020200-02-2---
+--222202--20202-2--02---2200020-22--2--2202-2
+-200----22-2-202-0220002--202---2------------
+--2--2---2-----21111100-0002--2--------------
+-----------------2---10002-------------------
+---------------------1000--------------------
+---------------------100---------------------
+---------------------100---------------------
+---------------------100---------------------
+---------------------100---------------------
+---------------------100---------------------
+---------------------100---------------------
+---------------------100---------------------
+---------------------100---------------------
+--------------------1000---------------------
+--------------------1000---------------------
+--------------------10000--------------------
+--------------------10000--------------------
+-----------------100000000-------------------
+---------------------------------------------

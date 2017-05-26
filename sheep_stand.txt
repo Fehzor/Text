@@ -1,0 +1,41 @@
+18 20 9 18
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXX@@@@@@ XXXX
+XXXX@@@@@@@   @  X
+XX@@@@@@@@@@ • •@X
+XX@@@@@@@@@@  Y @X
+XX@@@@@@@@@@@@@ XX
+XXXX@@@@@@@@@@@XXX
+XXXX XX XX XX XXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+------------------
+------------------
+------------------
+------------------
+------------------
+------------------
+------------------
+------------------
+------------------
+------------------
+------------------
+-------2222222----
+----2222222211211-
+--222222222221112-
+--222222222221112-
+--22222222222222--
+----22222222222---
+----1--1--1--1----
+------------------
+------------------

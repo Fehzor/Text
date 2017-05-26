@@ -1,0 +1,71 @@
+12 35 6 35
+XXXX  XXXXXX
+XXX    XXXXX
+XX      XXXX
+XX       XXX
+X         XX
+X          X
+X      ;;;; 
+X        XXX
+X       XXXX
+X X     XXXX
+X X     XXXX
+XXX     XXXX
+XXX  U  XXXX
+XX   U  XXXX
+XX   U   XXX
+XX  UUU  XXX
+XX  UUU  XXX
+XX  UUU  XXX
+XX  UUU  XXX
+XXV     VXXX
+XXX V V XXXX
+XXX    XXXXX
+XXX    XXXXX
+XXX    XXXXX
+XX     XXXXX
+XX     XXXXX
+X XX    XXXX
+XXXX    XXXX
+XXXX    XXXX
+XXXX    XXXX
+XXXX   U XXX
+XXXX   U XXX
+XXXX  UUUXXX
+XXXUUUUUUUXX
+XXUUUUUUUUXX
+----55------
+---5555-----
+--552225----
+--5223335---
+-552333335--
+-5523333335-
+-55233333330
+-55233333---
+-5525553----
+-5-55553----
+-5-55555----
+---55555----
+---55555----
+--555555----
+--5555555---
+--5555555---
+--5555555---
+--5555555---
+--5555555---
+--5555555---
+---55555----
+---2333-----
+---2333-----
+---2355-----
+--23555-----
+--22555-----
+-2--5555----
+----5555----
+----5555----
+----5555----
+----55555---
+----55555---
+----55555---
+---5555555--
+--55555555--

@@ -1,0 +1,25 @@
+12 12 0 0
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+wwwXXwwXXwww
+wwwXwwwwXwww
+wwwXwwwwXwww
+XwwwwwwwwwwX
+XwwwwXXwwwwX
+XwwwXXXXwwwX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+------------
+------------
+------------
+111--22--111
+212-2112-212
+212-1221-212
+-2121221212-
+-2112--2112-
+-212----212-
+------------
+------------
+------------

@@ -1,0 +1,33 @@
+12 16 6 16
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXX    XXXX
+XXX      XXX
+XX        XX
+X          X
+XX        XX
+XXX      XXX
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+------------
+----5556----
+---555663---
+--55566333--
+-5556633333-
+--56633333--
+---663333---

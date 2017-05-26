@@ -1,0 +1,12 @@
+bike_blue
+bike_red
+bike_yellow
+car_red
+car_blue
+car_green
+schoolbus_left
+taxi_yellow
+truck_blue
+truck_green
+truck_red
+truck_yellow

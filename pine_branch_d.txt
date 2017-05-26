@@ -1,0 +1,17 @@
+35 8 0 0
+XXXXXXXXXX XXXX      XXXX XXXXXXXXX
+XXXXXXXXXXX              XXXXXXXXXX
+XXXXXXXXXXXX        X   XXXXXXXXXXX
+XXXXXXXXXXXXXXX     XXXXXXXXXXXXXXX
+XXXXXXXXXXXXX        XXXXXXXXXXXXXX
+XXXXXXXX XX              XX  XXXXXX
+XXXXXXXXX                   XXXXXXX
+XXXXXXXXXXXX   X    XX    XXXXXXXXX
+----------1----111111----1---------
+-----------11111111111111----------
+------------11111111-111-----------
+---------------11111---------------
+-------------11111111--------------
+--------1--11111111111111--11------
+---------1111111111111111111-------
+------------111-1111--1111---------

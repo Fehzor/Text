@@ -1,0 +1,25 @@
+18 12 9 12
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXX//X/XXX\X\XXXX
+XXX/XX/X/X\X\X\XXX
+XX/X//  /  \X\X\XX
+X/X/X  /   ••X\X\X
+/X/X/X/XXX\X\XX\X\
+------------------
+------------------
+------------------
+------------------
+------------------
+------------------
+------------------
+----11-1---1-1----
+---1--1-1-1-1-1---
+--1-11221221-1-1--
+-1-1-22122222-1-1-
+1-1-1-1---1-1--1-1

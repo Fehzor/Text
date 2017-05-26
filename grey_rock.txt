@@ -1,0 +1,21 @@
+10 10 5 8
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+XXX   XXXX
+XX       X
+X         
+          
+X        X
+XXXXXXXXXX
+XXXXXXXXXX
+----------
+----------
+----------
+---111----
+--1222111-
+-133333121
+0113311110
+-00000000-
+----------
+----------

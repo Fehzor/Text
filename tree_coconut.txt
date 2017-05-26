@@ -1,0 +1,77 @@
+35 38 17 37
+XXXXXXX       XXXXXXXXX        XXXX
+XXXXX  XXX      XXXXX            XX
+XXXX XXXX        X           XXX  X
+XXX XX                        XXX X
+XXXX                      XX    XXX
+XXX    X                   XX   XXX
+XX   XX           _     X    X   XX
+XX  XXX    XX    __  _   X   XX  XX
+X  XXX     XX   X_    _  XX   X XXX
+XX XX  X  XXX   X__  _X  XXX  XXXXX
+XXXXX XX  XXXX XX__XXXX  XXX  XXXXX
+XXXXXXXX  XXXXX X__XXXX  XXX  XXXXX
+XXXXXXXXX  XXXXX __XXXX XXXX XXXXXX
+XXXXXXXXXXX XXXXX__XXX XXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XX XXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX__XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX____XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX______XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-------3333333---------44444444----
+-----33---333333-----333344444444--
+----3----44444333-33333333334---44-
+---3--444444433333111333333333---4-
+----4444443333333111113444--3333---
+---4444-3334441113111333444--333---
+--444--33344411111033333-4444-333--
+--44---3344--311100111333-444--33--
+-44---33444--333-01111133--444-3---
+--4--33-44---333-00111-33---44-----
+-----3--44----3--00----33---44-----
+--------44-----3-00----33---44-----
+---------44-----300----3----4------
+-----------4-----00---3------------
+-----------------00--3-------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+-----------------00----------------
+----------------0000---------------
+---------------000000--------------
+-----------------------------------

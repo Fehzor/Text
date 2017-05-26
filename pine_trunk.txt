@@ -1,0 +1,21 @@
+10 10 0 0
+XXXX  XXXX
+XXXX  XXXX
+XXX    XXX
+XXX    XXX
+XXX    XXX
+XXX    XXX
+XXX    XXX
+XXX    XXX
+XXX    XXX
+XXX    XXX
+----00----
+----00----
+---0000---
+---0000---
+---0000---
+---0000---
+---0000---
+---0000---
+---0000---
+---0000---

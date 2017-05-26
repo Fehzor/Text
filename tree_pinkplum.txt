@@ -1,0 +1,77 @@
+45 38 22 37
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXX☻XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXX☻X☻X☻XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXX☻XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXX☻X☻XXXXXXXXXXX☻XXXXXXXXXXX☻X☻XXXXX
+XXXX☻XX☻XXX☻ XXXXXXXXXX☻XX ☻X☻XXXXXXXX☻☻XXXXX
+X☻XXXX☻☻XX☻X☻X☻XXXXXX☻X X☻ ☻XXXXXX☻☻ ☻XXXXXXX
+XX☻XXXX☻  X☻ XXXX☻X☻XX ☻XX☻ ☻XX☻☻☻X ☻XXXXXXXX
+X☻☻☻XXXXX☻ X ☻XXXX XX ☻XXXXX ☻XXXX ☻XXXXXXXXX
+XXX☻☻XXX☻X☻☻ X☻XXX  ☻ ☻XX☻X☻X ☻XX XXX☻XXXXXXX
+XX☻X☻XXXXXXX☻ X☻XXX X X☻XXXXX☻X☻ ☻☻X☻☻X☻XXX☻X
+XXX☻ ☻X☻XXX☻X   X☻X☻ ☻☻XX☻X☻X☻X ☻XX☻XXXXX☻XXX
+XXXXXXX XXXXXXX☻ XXX XX☻XXXXXX☻☻X☻☻XX☻ ☻XXXXX
+XXXXX☻☻X ☻X☻XXXXX   ☻XXXX☻X☻X☻ X☻XXX☻X☻XX☻X☻X
+☻XX☻XXXX ☻ ☻X☻☻XX☻ XX☻X☻X☻☻X ☻☻ X ☻  X ☻X☻XXX
+XX☻☻☻☻ ☻XX☻ ☻ ☻X☻XX ☻XXX☻☻  X☻ X☻☻XX☻XXX☻ ☻X☻
+X☻  XXXX☻☻X☻X☻ ☻X ☻☻   ☻XX☻ ☻XXX☻XXXXXXXXXXXX
+XX☻XX☻XXX☻XXXXX☻       X   ☻XX☻XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX☻XXX    ☻XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+---------------------------------------------
+-------------8-------------------------------
+---------------------------------------------
+----------8-8-8------------------------------
+------------8--------------------------------
+-----------8-8-----------8-----------8-8-----
+----8--8---80----------8--08-8--------88-----
+-8----88--8-8-8------8-0-808------8808-------
+--8----800-80----8-8--08--808--888-08--------
+-888-----80-08----0--08-----08----08---------
+---88---8-880-8---00808--8-8-08--0---8-------
+--8-8-------80-8---0-0-8-----8-8088-88-8---8-
+---808-8---8-000-8-8088--8-8-8-08--8-----8---
+-------0-------80---0--8------88-88--808-----
+-----88-08-8-----0008----8-8-80-8---8-8--8-8-
+8--8----0808-88--80--8-8-88-0880-0800-08-8---
+--888808--80808-8--08---8800-80-88--8---808-8
+-800----88-8-808-0880008--808---8------------
+--8--8---8-----81111100-0008--8--------------
+-----------------8---10008-------------------
+---------------------1000--------------------
+---------------------100---------------------
+---------------------100---------------------
+---------------------100---------------------
+---------------------100---------------------
+---------------------100---------------------
+---------------------100---------------------
+---------------------100---------------------
+---------------------100---------------------
+--------------------1000---------------------
+--------------------1000---------------------
+--------------------10000--------------------
+--------------------10000--------------------
+-----------------100000000-------------------
+---------------------------------------------

@@ -1,0 +1,41 @@
+18 20 9 20
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXX ☻XX ☻XXXXXXXX
+XXXX  XX  XXXXXXXX
+XXXXX XXX XXXXXXXX
+XXXXXX X XXXXXXXXX
+                XX
+   ————————————XXX
+   ————————————XXX
+   ————————————XXX
+                XX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+------------------
+------------------
+------------------
+------------------
+------------------
+------------------
+------------------
+------------------
+----30--30--------
+----33--33--------
+-----1---1--------
+------1-1---------
+0011111111111111--
+111222222222222---
+001222222222222---
+111222222222222---
+0011111111111111--
+------------------
+------------------
+------------------

@@ -1,0 +1,21 @@
+15 10 10 10
+XXXXXXXXXXXXXXX
+X   XXXXXXXXXXX
+ XXX XXXXXXXXXX
+ X  XXXXXXXXXXX
+ XXXXXXXX   XXX
+X XXX    @ •XXX
+X           YXX
+XX         XXXX
+XX X XX XX XXXX
+XX XX XX X XXXX
+---------------
+-000-----------
+0---0----------
+0-00-----------
+0--------000---
+-0---0000202---
+-000000000022--
+--020220220----
+--0-0--0--0----
+--2--2--2-2----

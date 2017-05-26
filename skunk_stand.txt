@@ -1,0 +1,31 @@
+20 15 15 12
+XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX
+XXXX  XXXXXXXXXXXXXX
+X      XXXXXXXXXXXXX
+ X      XXXXXXXXXXXX
+XXXXXX  XXXXXXXXXXXX
+XXXXXXX XXXXXXXX •XX
+XXXXXXXX           X
+XXXXXXXX         XXX
+XXXXXXXX"X"XXXX"X"XX
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+--------------------
+----20--------------
+-112220-------------
+1-111120------------
+------12------------
+-------1--------10--
+--------21111111222-
+--------222222222---
+--------0-0----0-0--

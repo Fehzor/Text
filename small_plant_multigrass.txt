@@ -1,0 +1,17 @@
+12 8 6 8
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XX XX XX XXX
+X  X  X  XXX
+X        XXX
+X        XXX
+XX      XXXX
+------------
+------------
+------------
+--1--1--1---
+-11-11-11---
+-12112112---
+-22122122---
+--222222----

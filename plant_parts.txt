@@ -1,0 +1,33 @@
+GREENSCALE_LIGHT cactus_long.txt 1 CACTUS 0 -20 1
+GREENSCALE_LIGHT cactus_split.txt 1 CACTUS 0 -20 1 9 -20 1
+GREENSCALE_LIGHT cactus_top.txt 1 CACTUS
+GREENSCALE_LIGHT cactus_trunk.txt 1 CACTUS 0 -10 1
+GREYSCALE_LIGHT palm_top_a.txt 2 PALM 0 -4 0
+GREYSCALE_LIGHT palm_top_b.txt 2 PALM 0 -4 0
+GREYSCALE_LIGHT palm_top_c.txt 2 PALM 0 -4 0
+GREYSCALE_LIGHT palm_top_a.txt 2 PALM
+GREYSCALE_LIGHT palm_top_b.txt 2 PALM
+GREYSCALE_LIGHT palm_top_c.txt 2 PALM
+GREYSCALE tree_lolli.txt 2 PALM
+GREYSCALE tree_lolli_two.txt 2 PALM
+GREYSCALE tree_lolli_square.txt 2 PALM
+GREYSCALE palm_trunk.txt 1 PALM 0 -10 1
+GREYSCALE palm_trunk.txt 1 PALM 0 -10 1
+GREYSCALE palm_trunk.txt 1 PALM 0 -10 1
+GREYSCALE palm_trunk.txt 1 PALM 0 -10 1
+GREYSCALE palm_trunk.txt 1 PALM 0 -10 1
+GREYSCALE tree_trunk_thin.txt 1 LOLLI 0 -7 1
+GREYSCALE tree_trunk_thin_long.txt 1 LOLLI 0 -13 1
+GREYSCALE tree_trunk_thin_x_long.txt 1 LOLLI 0 -19 1
+GREYSCALE tree_trunk_thin_branch.txt 1 LOLLI 0 -8 1 8 -8 1
+GREYSCALE tree_trunk_thin_long_branch.txt 1 LOLLI 0 -8 1 23 -8 1
+GREYSCALE tree_trunk_thin_triplet.txt 1 LOLLI 0 -8 1 12 -8 1 23 -8 1
+GREYSCALE tree_lolli.txt 2 LOLLI
+GREYSCALE tree_lolli_two.txt 2 LOLLI
+GREYSCALE tree_lolli_square.txt 2 LOLLI
+GREYSCALE tree_lolli.txt 2 LOLLI 0 -5 0
+GREYSCALE tree_lolli_two.txt 2 LOLLI 0 -5 0
+GREYSCALE tree_lolli_square.txt 2 LOLLI 0 -5 0
+GREYSCALE_LIGHT palm_top_a.txt 2 LOLLI
+GREYSCALE_LIGHT palm_top_b.txt 2 LOLLI
+GREYSCALE_LIGHT palm_top_c.txt 2 LOLLI

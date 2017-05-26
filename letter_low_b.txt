@@ -1,0 +1,25 @@
+12 12 0 0
+bbbbbXXXXXXX
+XbbbXXXXXXXX
+XbbbXXXXXXXX
+XbbbbbbbbbXX
+XbbbbbbbbbbX
+XbbbXXXXXbbb
+XbbbXXXXXbbb
+XbbbbbbbbbbX
+bbbbbbbbbbXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+21332-------
+-212--------
+-212--------
+-212111112--
+-2132222212-
+-212-----212
+-212-----212
+-2132222212-
+2132133332--
+------------
+------------
+------------

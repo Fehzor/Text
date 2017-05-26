@@ -1,0 +1,25 @@
+12 12 0 0
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+mmmXXXXXXXXX
+mmmmmmmmmmmX
+mmmmmmmmmmmm
+mmmXXmmmXmmm
+mmmXXmmmXmmm
+mmmmmmmmmmmm
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+------------
+------------
+------------
+112---------
+21211121112-
+211222122212
+212--212-212
+212--212-212
+111221112111
+------------
+------------
+------------

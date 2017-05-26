@@ -1,0 +1,51 @@
+50 25 25 25
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX             XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX                 XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX                     XXXXXXXXXXXXXX
+XXXXXXXXXXXXX                         XXXXXXXXXXXX
+XXXXXXXXXXX                             XXXXXXXXXX
+XXXXXXXXX                                 XXXXXXXX
+XXXXXXX                                     XXXXXX
+XXXXX     X                            XX     XXXX
+XXXX    XXX                            XXXX    XXX
+XXXXXXXXXXXX                           XXXXXXXXXXX
+XXXXXXXXXXXX                           XXXXXXXXXXX
+XXXXXXXXXXXX                           XXXXXXXXXXX
+XXXX   XXXXX                           XXXX   XXXX
+XXXX   XXXXX                           XXXX   XXXX
+XXXXX XXXXXX                           XXXXX XXXXX
+XXXXX XXXXXX                           XXXXX XXXXX
+XX XX XX XXX                           XX XX XX XX
+XXX X X XXXX                           XXX X X XXX
+XXXX   XXXXX                           XXXX   XXXX
+                                                  
+--------------------------------------------------
+--------------------------------------------------
+------------------------666-----------------------
+-----------------------66066----------------------
+---------------------660050066--------------------
+-------------------6600555550066------------------
+-----------------66005555555550066----------------
+---------------660055555555555550066--------------
+-------------6600555555555575777550066------------
+-----------66005555555555555577755550066----------
+---------660055555555555555755555555550066--------
+-------6600005555555555656555757555555000066------
+-----66000-0055555555655555555555555550--00066----
+----6600---0055555555556665555555555550----0066---
+------------055555555656665555555555550-----------
+------------055555555555555555555555550-----------
+------------055555550000000000055454550-----------
+----656-----055555550000000000055555540----656----
+----666-----057575550000000000055444550----666----
+-----6------055555750000000000055444540-----6-----
+-----4------057775550000000000055555550-----4-----
+--4--4--4---057775750000000000055555550--4--4--4--
+---4-4-4----055555550000000000055555550---4-4-4---
+----444-----055555550000000000055555550----444----
+44444444444000000000000000000000000000004444444444

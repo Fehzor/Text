@@ -1,0 +1,77 @@
+45 38 22 30
+XXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX             XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX             XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX           XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX       XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX                 XXXXXXXXXXXXX
+XXXXXXXXXXXXX                     XXXXXXXXXXX
+XXXXXXXXXXXXX                     XXXXXXXXXXX
+XXXXXXXXXXXXXX                   XXXXXXXXXXXX
+XXXXXXXXXXXXXXXX               XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX       XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX       XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX       XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXXXXX
+XXXXXX                                  XXXXX
+XXXX                                      XXX
+XX                                         XX
+X                                           X
+X                                            
+X                                            
+X                                            
+XX                                           
+XXX                                         X
+XXXXX                                     XXX
+XXXXXXXX                               XXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------------------3---------------------
+---------------------33333-------------------
+-------------------113333311-----------------
+-----------------3777733377773---------------
+-----------------3377777777733---------------
+------------------13333333333----------------
+----------------------111--------------------
+----------------------111--------------------
+----------------------111--------------------
+---------------------33333-------------------
+--------------------3333333------------------
+---------------11111333333311111-------------
+-------------337777733333337777733-----------
+-------------333777777777777777333-----------
+--------------3333333333333333333------------
+----------------333333333333333--------------
+----------------------111--------------------
+---------------------33333-------------------
+--------------------3333333------------------
+-------------------333333333-----------------
+-------------------333333333-----------------
+--------------------3333333------------------
+---------------------11111-------------------
+--------------------3333333------------------
+-------------------333333333-----------------
+-------------------333333333-----------------
+------2222222222223333333333322222222222-----
+----22211111111111333333333331111111111222---
+--22211177777777773333333333377777777711122--
+-2221117777777777733333333333777777777711122-
+-22411117777777777777777777777777777771114422
+-22444141111111111111111111111111111114144422
+-22224444111141111411114111411111411114444222
+--2222444444444444444444444444444444444222222
+---22222222222222222222222222222222222222222-
+-----2222222222222222222222222222222222222---
+--------2222222222222222222222222222222------
+---------------------------------------------

@@ -1,0 +1,21 @@
+25 10 16 10
+XXXXXXXXXXXXXXXXXXXXX  XX
+XXXXXXXXXXXXXXXXXXX   • X
+XXXXXXXXXXXX_XXXX     —X\
+XXXXXXXXXXX_X_XXX     —XX
+XXXXXXXXXX_XXX_XXX    —XX
+XXXXXXXXXX_XXXX_XXX  —XXX
+XXXXXX|XXX_XXXX_XXXX —XXX
+XXXXXX|XXX_XXXX_XXXX —XXX
+XXXXXXX|XX_XXXXX_XXX —XXX
+XXXXXXX|||XXXXXX|||||—XXX
+---------------------33--
+-------------------33111-
+------------1----333111-1
+-----------1-1---331111--
+----------1---1---33111--
+----------1----1---331---
+------1---1----1----31---
+------1---1----1----31---
+-------1--1-----1---31---
+-------111------111111---

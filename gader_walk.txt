@@ -1,0 +1,17 @@
+23 8 11 8
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX @X@XXX
+XXXXXXXXXXXXXXX      oo
+<XXXXXX˄˄˄˄˄˄˄˄  V V V 
+<<<˄˄˄˄˄˄˄˄˄˄˄        X
+X<˄               XXXXX
+XXX XXX XXX XXX XXXXXXX
+-----------------------
+-----------------------
+----------------12-2---
+---------------11111111
+1------1111111112121212
+1111111111111122222222-
+-11222222222222222-----
+---2---2---2---2-------

@@ -1,0 +1,12 @@
+phonebooth
+streetlight
+streetlight_b
+trafficcone
+trafficlight
+stopsign
+streetsign
+bench
+bike_blue
+bike_red
+bike_yellow
+streetclock

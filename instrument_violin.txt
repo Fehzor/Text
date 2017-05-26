@@ -1,0 +1,31 @@
+12 15 6 7
+XXXXX  XXXXX
+XXXXX   XXXX
+XXXX llXXXXX
+XXXXXll XXXX
+XXXX llXXXXX
+XXXXXllXXXXX
+XXX  ll  XXX
+XX   ll   XX
+XX   ll   XX
+XXX  ll  XXX
+XXX  ll  XXX
+XX   ll   XX
+XX   ll   XX
+XX        XX
+XXX      XXX
+-----00-----
+-----000----
+----000-----
+-----000----
+----000-----
+-----00-----
+---990099---
+--99900999--
+--99999999--
+---909909---
+---909909---
+--90999909--
+--99900999--
+--99000999--
+---000099---

@@ -1,0 +1,77 @@
+45 38 22 37
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXX  XXXXXXX   XXXXXXX
+XXXXXXXX   XXXXXXXXXXXXXX  XXXXXXX   XXXXXXXX
+XXXXXXXXX  XXXXXXXXXXXXXX           XXXXXXXXX
+XXXXXXXXXX   XXXXXXXXXX           XXXXXXXXXXX
+XXXXXXXXXXX  XXXXXXXXX      XXXXXXXXXXXXXXXXX
+XXXXXXXXXXX   XXXXXX     XXXXXXXXXXXXXXXXXXXX
+XXXXXX          XXXX    XXXXXXXXXXXX   XXXXXX
+XXXXXXX          XX   XXXXXXXXXX         XXXX
+XXXXXXXXXXXXX        XXXXXXXXXX          XXXX
+XXXXXXXXXXXXXXXX     XXXX  XX    XXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX   XXXXXX  X X XXXXXXXXXXXXX
+XXXXXXXX  XXXXXXXX   XXXXX     XXXXXXXXXXXXXX
+XXXXXXXX    XXXXXX   XXXXXX   XXX         XXX
+XXXXXXXXXX   XXXXXX  XXXXX   XXX        XXXXX
+X   XXXXXXX   XXXXX  XXXX   X          XXXXXX
+XX    XXXXX           X          XXXXXXXXXXXX
+XXX                            XXXXXXXXXXXXXX
+XXXXXX     XXXXX            XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX       XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX       XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX    XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX            XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX                XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+---------------------------------------------
+---------------------------------------------
+---------------------------0-----------------
+--------------------------70-------700-------
+--------177--------------70-------770--------
+---------17--------------70777777700---------
+----------177----------77007000000-----------
+-----------17---------770000-----------------
+-----------117------77700--------------------
+------1777777107----7000------------770------
+-------1111117707--700----------777700777----
+-------------11177700----------7700000000----
+----------------10700----17--7700------------
+-----------------100------17-7-0-------------
+--------17--------100-----17770--------------
+--------1077------100------000---777777700---
+----------107------10-----700---77777700-----
+-177-------177-----10----700-7770000000------
+--1077-----77777770077-7770777000------------
+---1117777711111000007777000000--------------
+------11111-----110007770000-----------------
+------------------1077000--------------------
+------------------1000000--------------------
+-------------------1000----------------------
+-------------------1000----------------------
+-------------------1000----------------------
+--------------------100----------------------
+--------------------100----------------------
+--------------------100----------------------
+--------------------100----------------------
+---------------------100---------------------
+---------------------100---------------------
+---------------------100---------------------
+---------------------1000--------------------
+------------------777100077------------------
+-----------------777100000777----------------
+---------------7771000000000777--------------
+---------------------------------------------

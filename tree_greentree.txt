@@ -1,0 +1,77 @@
+35 38 17 37
+XXXXXXXXXXXXXXX        XXXXXXXXXXXX
+XXXXXXXXXXXXXX            XXXXXXXXX
+XXXXXXXXXXXX               XXXXXXXX
+XXXXXXXXXXXX               XXXXXXXX
+XXXXXXXXXXXXX               XXXXXXX
+XXXXXXX                    XX    XX
+XXXXXX                            X
+XX                                X
+X                                 X
+                                   
+                                   
+X                                  
+X                                  
+XXX    \X    \                    X
+XX     \XX  \\                   XX
+XX    \ \\X\\       /    //     XXX
+XXX       \\        // X//        X
+X     /    \\         /X/          
+X      /\\XXX\\ X    X//           
+          /\\X\ XX  ///X           
+            ///\XXXX//X           X
+XX           XX/XX/llXXX         XX
+XXX           X/lllXX   XX      XXX
+XXXXXXX      XXX/llX     XXXXXXXXXX
+XXXXXXXXXXXXXXXX/llXX/   XXXXXXXXXX
+XXXXXXXXX   XXXX/ lX/XXXXXXXXXXXXXX
+XXXXXXXX     XXX/lllXXXXXXXXXXXXXXX
+XXXXXXXXX   ///XX/llXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX/\lllXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX/lllXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX/llXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX/llXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX/lllXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX/lllXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX/llllXXXXXXXXXXXXXX
+XXXXXXXXXXXXXX/lllllllXXXXXXXXXXXXX
+XXXXXXXXXXX///lllllllllllXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+---------------44444444------------
+--------------444444444444---------
+------------444444444444444--------
+------------444444444444444--------
+-------------444444444444444-------
+-------44444444444444444444--4444--
+------4444444444433333444444444444-
+--44444444444444333333344444444444-
+-444444444444444333333334443334444-
+44444443333344433333333344333334444
+44444333333333333333333333333334444
+-4444333333333333333333333333334444
+-4444433333333333333333333333344444
+---44330-3333033333333333333334444-
+--443330--33003333333333333333444--
+--44430300-003333333033330033334---
+---44333330033333333103-1033333444-
+-4443313333003333333331-13333333444
+-444333100---003-3333-1033333333444
+4444433333100-03--33100-33333334444
+4444444433331110----10-44433344444-
+--44444444444--1--100---444444444--
+---44444444444-1000--444--444444---
+-------444444---100-43334----------
+----------------100--0333----------
+---------444----100-0--------------
+--------43334---1000---------------
+---------333111--100---------------
+---------------10000---------------
+-----------------1000--------------
+------------------100--------------
+------------------100--------------
+-----------------1000--------------
+-----------------1000--------------
+----------------10000--------------
+--------------10000000-------------
+-----------11100000000000----------
+-----------------------------------

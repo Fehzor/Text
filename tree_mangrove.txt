@@ -1,0 +1,77 @@
+35 38 17 37
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXX      XXX   XXXXXXXXX
+XXXXXXXXXXXX         X     XXXXXXXX
+XXXXX   XX                   XXXXXX
+XXX                            XXXX
+X                               XXX
+X                                XX
+XX                              XXX
+XXXXX                     XXXXXXXXX
+XXXXXXX                  XXXXXXXXXX
+XXXXXXXXXXX         X        XXXXXX
+XXXXXXXX            XX        XXXXX
+XX                  X           XXX
+X                   X          XXXX
+                    XXX      XXXXXX
+               XX   XX  XXXXXXXXXXX
+XX             XX   X  XXXXXXXXXXXX
+XXXXX       XXXXX    XXXXXXXXXXXXXX
+XXXXXXXX    XXXXX    XXXXXXXXXXXXXX
+XXXXXXXXX   XXXXX   XXXXXXXXXXXXXXX
+XXXXXXXXX   XXXX     XXXXXXXXXXXXXX
+XXXXXXX                     XXXXXXX
+XXXXXX    XXXXX     XXXX       XXXX
+XXXXX   XXXXXXXX    XXXXXXX XXX XXX
+XXX   X XXXXXXX   X  XXXXXX  XXX XX
+X  X XX  XXXXX   XXX   XXXX  XXX  X
+ XX XXXX XXXX   XXX    XXXX X     X
+ XX    X  XX   XXX XX    XX XXX XX 
+ XX XXX X XX   XX XXX  X X X  XX X 
+ X    XX  X  X   XX    XX  XX  XX  
+X  XX XX    XXX  X XX   XX XXX  X X
+ XXX XX      XX   XXX X   XXX XX XX
+ XX  X  X  X X XX XX  XX   XX X X X
+ X X X XX  X X XX XX X  X X X X XX 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------------------------------
+-----------------------------------
+-----------------------------------
+-----------------------------------
+--------------444444---444---------
+------------444444444-44444--------
+-----444--4444444444443333344------
+---4444444443333444433555334444----
+-4443355344335553444355053334444---
+-44433350353550333335505333334444--
+--444445505550553355500053333334---
+-----335550550553355005553---------
+-------335301055355505533----------
+-----------350055550-33444444------
+--------444431005500--44303334-----
+--444444444443510000-44355050444---
+-4444333333044434100-4355000534----
+44335355550533444100---011555------
+443505555005534--100--01-----------
+--4551055005553--100-11------------
+-----5510005-----1001--------------
+--------1001-----1011--------------
+---------101-----101---------------
+---------101----10011--------------
+-------110000000000001110000-------
+------1000-----10000----1110000----
+-----100--------1000-------1---0---
+---100-0-------100-10------10---0--
+-11-0--00-----100---100----10---00-
+1--1----0----100---0010----0-11000-
+1--1000-00--100---0--1000--1---1--0
+1--1---0-0--101--0---10-0-1-00--1-0
+1-1000--01-10-010--0011--01--10--10
+-11--0--1010---01-0--100--1---11-1-
+1---1--101000--010---1-001---1--1--
+1--10-10-10-0-0--1--10--010--1-0-1-
+1-1-0-1--11-0-0--1--1-00-1-0-1-0--0
+-----------------------------------

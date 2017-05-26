@@ -1,0 +1,71 @@
+30 35 15 35
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX    XXXX
+XXXXXXXXXXXXXXXXXXXX       XXX
+XXXXXXXXXXX  XXXXXX         XX
+XXXXXXX        XXXX         XX
+XXXXXX           XXX        XX
+XX   X            XXX      XXX
+X     X           XXX//XXXXXXX
+XX    XX         XXX//XXXXXXXX
+XXXXX\\\XX     lXXX       XXXX
+XX       XXXl llX           XX
+X         XXXl               X
+           XXl                
+           XXl l              
+XX        XXll lX           XX
+XXXX    XXXX   lXXX    XXXXXXX
+XXXXXXX \X        XX//XXXXXXXX
+XXX    X \         X/XXXX  XXX
+XX      X \\X     ///XXX    XX
+XX       \X Xl lX//XXXX/ XXXXX
+XXX   XXXXX \l llXXXX/     XXX
+XXXXXXXXXXXXll llXX// X/   XXX
+XXXXXXXXXXXX llll/// XXXXXXXXX
+XXXXXXXXXXXX l ll XXXXXXXXXXXX
+XXXXXXXXXXXX l llXXXXXXXXXXXXX
+XXXXXXXXXXXX l l XXXXXXXXXXXXX
+XXXXXXXXXXXX llllXXXXXXXXXXXXX
+XXXXXXXXXXXX lll XXXXXXXXXXXXX
+XXXXXXXXXXXX lll XXXXXXXXXXXXX
+XXXXXXXXXXXX l l XXXXXXXXXXXXX
+XXXXXXXXXXX ll l XXXXXXXXXXXXX
+XXXXXXXXXXX ll ll XXXXXXXXXXXX
+XXXXXXXXXXX ll ll XXXXXXXXXXXX
+XXXXXXXXX //ll ll\\\ XXXXXXXXX
+XXXXXXXX ///ll ll\\\\ XXXXXXXX
+------------------------------
+----------------------3333----
+--------------------3344433---
+-----------33------334444433--
+-------34444333----333444433--
+------33344443333---33333333--
+--343-334444333333---333333---
+-34443-33344334443---00-------
+--3333--333333444---00--------
+-----000--333330---3333333----
+--3333333---0100-33344443333--
+-334443333---0133334444443333-
+33344443333--01333344443334433
+33333333443--01033333333344433
+--33333444--0010-33333333333--
+----3333----3330---3333-------
+-------10-33344433--00--------
+---3333-10334444433-0----43---
+--344433-100-33333000---3333--
+--34433310-1-010-00----01-----
+---333-----100100----013443---
+------------10100--001-0333---
+------------100000001---------
+------------101001------------
+------------10100-------------
+------------10101-------------
+------------10000-------------
+------------10001-------------
+------------10001-------------
+------------10101-------------
+-----------100101-------------
+-----------1001001------------
+-----------1001001------------
+---------100001000001---------
+--------10000010000001--------

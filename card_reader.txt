@@ -1,0 +1,19 @@
+12 9 11 7
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXX    X
+XXXXXX      
+XXXXXX      
+XXX         
+XXX        X
+XXXXXXXXXXXX
+------------
+------------
+------------
+-------0000-
+------011110
+------012210
+---722222110
+---73333300-
+------------

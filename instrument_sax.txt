@@ -1,0 +1,25 @@
+12 12 0 0
+   XXXXXXXXX
+XXX•XXXXXXXX
+XXX•XXXXXXXX
+XXX•XXXXXXXX
+XXX•XXXXXXXX
+XXX •XXXXXXX
+XXXX•X    XX
+XXXX•XX  XXX
+XXXX•XX  XXX
+XXXX  X  XXX
+XXXX  X  XXX
+XXXXX   XXXX
+055---------
+---5--------
+---5--------
+---5--------
+---5--------
+---55-------
+----5-5555--
+----5--55---
+----5--55---
+----55-55---
+----55-55---
+-----555----

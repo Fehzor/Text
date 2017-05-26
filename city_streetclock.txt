@@ -1,0 +1,77 @@
+45 38 22 37
+XXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX  X  X   X  X  XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX             XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX           XXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX             XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX               XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX                 XXXXXXXXXXXXX
+XXXXXXXXXXXXXXX                 XXXXXXXXXXXXX
+XXXXXXXXXXXXXXX                 XXXXXXXXXXXXX
+XXXXXXXXXXXXXXX                 XXXXXXXXXXXXX
+XXXXXXXXXXXXXXXX               XXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXX             XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX       XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXX   XXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX     XXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX       XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX       XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXX       XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX         XXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----------------------5---------------------
+-----------------------5---------------------
+----------------55-55-555-55-55--------------
+-----------------5555555555555---------------
+------------------77722022777----------------
+-----------------7702222222077---------------
+----------------702222202222207--------------
+---------------72222222022222227-------------
+---------------70222222022222207-------------
+---------------70222220222222207-------------
+---------------72222202222222227-------------
+----------------702222222222207--------------
+-----------------7702222222077---------------
+-------------------772202277-----------------
+---------------------77777-------------------
+----------------------777--------------------
+--------------------5555555------------------
+----------------------777--------------------
+----------------------777--------------------
+----------------------777--------------------
+----------------------777--------------------
+----------------------777--------------------
+----------------------777--------------------
+----------------------777--------------------
+----------------------777--------------------
+----------------------777--------------------
+----------------------777--------------------
+----------------------777--------------------
+---------------------75757-------------------
+---------------------75757-------------------
+---------------------75757-------------------
+--------------------7557557------------------
+--------------------7557557------------------
+--------------------7557557------------------
+-------------------757575757-----------------
+-------------------757575757-----------------
+-------------------757575757-----------------
+---------------------------------------------

@@ -1,0 +1,41 @@
+18 20 9 20
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXX  X  XXXXXXX
+XXXXXX  X  XXXXXXX
+XXXXXX      XXXXXX
+XXXXX    ☻  XXXXXX
+XXXXX     > ♥XXXXX
+XXXXXX      -XXXXX
+XXXXXX      XXXXXX
+XXXXXX      XXXXXX
+XX XX      XXXXXXX
+X XXX          XXX
+X X         XXXXXX
+X X          XXXXX
+X  X       X  XXXX
+XX        XXXXXXXX
+XXXXX  XX  XXXXXXX
+XXXXX   X   XXXXXX
+------------------
+------------------
+------------------
+------------------
+------00-00-------
+------02-02-------
+------000000------
+-----0000000------
+-----00000000-----
+------0000000-----
+------111111------
+------333223------
+--2--000033-------
+-2---0000000022---
+-0-000000020------
+-0-0000002200-----
+-00-0000022-22----
+--00000002--------
+-----00--00-------
+-----222-222------

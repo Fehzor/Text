@@ -1,0 +1,41 @@
+18 20 9 20
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXX|||||XXX
+XXXX###XXX|   XXXX
+XXX#####XX  •  XXX
+XXX ######     XXX
+XXX###XX###  OXXXX
+XXX####XX####XXXXX
+XXXX# #XX#####XXXX
+XXXX####X#XXX##XXX
+XXXX####X##XXX##XX
+XXXX###XXX##XXXX  
+XXX##X##XXX  XXXX 
+XX##XXX##XXX XXXXX
+XX#XXXXX##XXXXXXXX
+X##XXXX##XXXXXXXXX
+##XXXX##XXXXXXXXXX
+X  XXXX  XXXXXXXXX
+------------------
+------------------
+------------------
+------------------
+----------11111---
+----111---1222----
+---11111--22322---
+---211111122222---
+---111--111222----
+---1111--1111-----
+----121--11111----
+----1111-1---11---
+----0000-11---11--
+----000---11----22
+---00-00---22----2
+--00---00---2-----
+--0-----00--------
+-00----00---------
+00----00----------
+-22----22---------

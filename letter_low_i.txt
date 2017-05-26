@@ -1,0 +1,25 @@
+12 12 0 0
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXiiiiXXXX
+XXXXXiiXXXXX
+XXXXiiiiXXXX
+XXXiiiiiXXXX
+XXXXXiiiXXXX
+XXXXXiiiXXXX
+XXXXiiiiiXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+------------
+------------
+----2112----
+-----22-----
+----2112----
+---21212----
+-----212----
+-----212----
+----21112---
+------------
+------------
+------------

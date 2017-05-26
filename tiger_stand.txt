@@ -1,0 +1,25 @@
+25 12 12 12
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+XXXX  XXXXXXXXXXXXXXXXXXX
+XXX XX XXXXXXXXXXXX XX XX
+XX XXXXXXXXXXXXXXXXX  • X
+XX XXXXXXXXXXXXXXXXX   > 
+XXX  XXX                 
+XXXX                   XX
+XXXXXX                 XX
+XXXXXXX                XX
+XXXXXXX  XX  XXXXX  XX  X
+XXXXXX  XX  XXXXXXX  XX  
+-------------------------
+-------------------------
+----10-------------------
+---0--1------------1--1--
+--1-----------------0020-
+--0-----------------10001
+---11---01010100100101000
+----0010101010010010001--
+------10110010100010010--
+-------0101011010100100--
+-------01--00-----01--01-
+------01--00-------00--01

@@ -1,0 +1,31 @@
+20 15 15 10
+XXXXXXXXXXX XXXXXXX 
+XXXXXXXXXXXX X XX X 
+XXXXXXXXXXXXX  XXX X
+XXXXXXXXXXXXXXX X XX
+XXXXXXXXXXXXX  • •  
+XXXXXXXXXXXXXXX ♥ XX
+XXXXXXXXXXXXXXX - XX
+XXXXXXXXXXXXXX   XXX
+X                XXX
+                 XXX
+ X              XXXX
+XX           XX XXXX
+XX XX XXXXXX XX XXXX
+XX XX XXXXXX XX XXXX
+XX XX XXXXXX XX XXXX
+-----------1-------1
+------------1-1--1-1
+-------------11---1-
+---------------1-1--
+-------------3333333
+---------------333--
+---------------333--
+--------------133---
+-1313313333133331---
+11333133133333111---
+1-13333333133113----
+--31131111113--3----
+--3--3------3--3----
+--3--3------3--3----
+--2--2------2--2----

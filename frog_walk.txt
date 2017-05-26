@@ -1,0 +1,25 @@
+18 12 9 16
+XXXXXXXXXX •X •XXX
+XXXXXXXXX      XXX
+XXXXXXXXX      XXX
+XXXXXXXX        XX
+XXXXXXXX       X  
+XXXXXX       XXXXX
+XXXXX  XXX  XXXXXX
+XXXXX XXX XXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXX
+----------02-02---
+---------000000---
+---------002222---
+--------00000220--
+--------0002000-00
+------0002222-----
+-----00---00------
+-----0---0--------
+------------------
+------------------
+------------------
+------------------

@@ -1,0 +1,13 @@
+15 6 13 6
+XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXX
+XXXXXX  XXXXXXX
+XXXXXXXX XXX^X^
+XXXXXXXXX   • •
+---------------
+---------------
+---------------
+------22-------
+--------2---0-0
+---------000000

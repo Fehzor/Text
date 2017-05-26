@@ -1,0 +1,21 @@
+10 10 0 0
+XXXXXXXXXX
+XXXXXXXXXX
+XXXXXXXXXX
+X    XXXXX
+XX      XX
+XXX      X
+XX   XX   
+X   XXXXXX
+   XXXXXXX
+  XXXXXXXX
+----------
+----------
+----------
+-1111-----
+--111111--
+---001111-
+--000--111
+-000------
+000-------
+00--------

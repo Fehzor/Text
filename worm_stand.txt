@@ -1,0 +1,33 @@
+12 16 6 16
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXXXXXXXX
+XXXXXX   XXX
+XXXXX XXX XX
+XXXXX XXXXXX
+XXXXX XXXXXX
+XXXXX XXXXXX
+XXXXXX XXXXX
+XXXXXXX XXXX
+ XXXXXX XXXX
+X XXXXXX XXX
+XX XXXXX XXX
+XXX XXXX XXX
+XXXX    XXXX
+------------
+------------
+------------
+------------
+------000---
+-----0---0--
+-----0------
+-----0------
+-----0------
+------0-----
+-------0----
+0------0----
+-0------0---
+--0-----0---
+---0----0---
+----0000----
